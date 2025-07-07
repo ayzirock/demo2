@@ -1,3 +1,3 @@
-page 1
-page 2
+page 1 + bugfixed
+page 2 + bugfixed
 page 3
